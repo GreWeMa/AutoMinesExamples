@@ -1,0 +1,21 @@
+WORLD: ""
+FIRST_POSITION: {
+    X: ""
+    Y: ""
+    Z: ""
+}
+SECOND_POSITION: {
+    X: ""
+    Y: ""
+    Z: ""
+}
+REGENERATE_DELAY: 
+BLOCK_INFOS: [
+    {
+        BLOCK: ""
+        LEVEL: 
+    }, {
+        BLOCK: ""
+        LEVEL: 
+    }
+]
