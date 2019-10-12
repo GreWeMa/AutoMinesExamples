@@ -1,0 +1,1 @@
+This repository is dedicated for official and unofficial examples of mine configurations for AutoMines.
